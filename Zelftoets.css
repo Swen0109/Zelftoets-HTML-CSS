@@ -184,3 +184,35 @@ body>nav>ul>a:hover{
 	margin-bottom:80px;
 	margin-left:270px;
 }
+
+#gta{
+	margin-left:0px;
+	margin-top:300px;
+	border:2px solid #000000
+}
+
+#gtainfo{
+	margin-left:30px;
+	margin-right:30px;
+}
+
+#groot{
+	position:absolute;
+	left:0px;
+}
+
+#klein{
+	position:absolute;
+	right:559px;
+}
+
+#klein2{
+	position:absolute;
+	right:559px;
+	top:825px;
+}
+
+#groot2{
+	position:absolute;
+	right:0px;
+}
