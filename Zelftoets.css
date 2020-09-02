@@ -1,0 +1,33 @@
+#navbar{
+	position:absolute;
+	left:300px;
+	top:250px;
+	word-spacing:50px;
+}
+
+#populairgames{
+	width:360px;
+	height:150px;
+	position:absolute;
+	left:550px;
+	top:60px;
+}
+
+#populairgames2{
+	width:420px;
+	height:200px;
+	position:absolute;
+	top:320px;
+	left:0px;
+	border: 5px solid #000000;
+}
+
+#populairgames3{
+	width:420px;
+	height:200px;
+	position:absolute;
+	top:320px;
+	right:0px;
+	border: 5px solid #000000;
+}
+
